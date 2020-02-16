@@ -1,7 +1,6 @@
 # coding: UTF-8
 """
 Script: Prog1/recursif
-Création: reissev, le 02/12/2019
 """
 
 
