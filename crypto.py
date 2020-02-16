@@ -1,10 +1,3 @@
-# coding: UTF-8
-"""
-Script: Prog2/crypto
-Création: reissev, le 31/01/2020
-"""
-
-
 # Imports
 import string
 
