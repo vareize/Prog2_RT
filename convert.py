@@ -1,10 +1,3 @@
-# coding: UTF-8
-"""
-Script: prog1/convert
-Création: reissev, le 12/11/2019
-"""
-
-
 # Imports
 import tools_convert
 
