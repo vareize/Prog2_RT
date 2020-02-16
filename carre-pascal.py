@@ -1,7 +1,6 @@
 # coding: UTF-8
 """
 Script: Prog1/carre
-Création: valen, le 21/11/2019
 """
 
 
