@@ -1,10 +1,3 @@
-# coding: UTF-8
-"""
-Script: TP1/debuggeur.py
-Création: barasc, le 19/08/2017
-"""
-
-
 # Imports
 
 # Fonctions
