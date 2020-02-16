@@ -1,7 +1,6 @@
 # coding: UTF-8
 """
-Script: Python/horloge
-Création: valen, le 13/11/2019
+Script: Prog1/horloge
 """
 
 
