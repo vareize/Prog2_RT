@@ -1,7 +1,6 @@
 # coding: UTF-8
 """
 Script: Prog1/graphique_syracuse
-Création: valen, le 26/11/2019
 """
 
 
