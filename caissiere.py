@@ -1,3 +1,8 @@
+# coding: UTF-8
+"""
+Script: Prog1/caissiere
+"""
+
 # Imports
 import tools_caissiere
 import math
