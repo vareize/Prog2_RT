@@ -1,10 +1,3 @@
-# coding: UTF-8
-"""
-Script: prog1/date
-Création: reissev, le 15/11/2019
-"""
-
-
 # Imports
 import calendar
 from random import *
