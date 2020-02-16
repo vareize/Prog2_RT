@@ -1,3 +1,8 @@
+# coding: UTF-8
+"""
+Script: Prog1/convert
+"""
+
 # Imports
 import tools_convert
 
