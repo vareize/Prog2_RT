@@ -1,7 +1,6 @@
 # coding: UTF-8
 """
-Script: Python/reglement
-Création: valen, le 12/11/2019
+Script: Prog1/reglement
 """
 
 
