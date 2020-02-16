@@ -1,10 +1,3 @@
-# coding: UTF-8
-"""
-Script: Python/dessin
-Création: valen, le 15/11/2019
-"""
-
-
 # Imports
 import turtle
 
