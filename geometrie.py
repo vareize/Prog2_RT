@@ -1,7 +1,6 @@
 # coding: UTF-8
 """
 Script: Python/geometrie
-Création: valen, le 16/11/2019
 """
 
 
