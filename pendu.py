@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 """
-pendu.py
+Script : prog2/pendu.py
 """
 # Import
 import tools_chaines, random
