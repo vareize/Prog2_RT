@@ -1,7 +1,6 @@
 # coding: UTF-8
 """
 Script: prog1/tri
-Création: reissev, le 15/11/2019
 """
 
 
