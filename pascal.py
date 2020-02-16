@@ -1,7 +1,6 @@
 # coding: UTF-8
 """
 Script: Prog1/pascal
-Création: valen, le 21/11/2019
 """
 
 # Imports
