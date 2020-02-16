@@ -1,7 +1,6 @@
 # coding: UTF-8
 """
-Script: td_sphinx/helloturtle
-Création: cleob, le 16/10/2019
+Script: prog1/helloturtle
 """
 # Imports
 import turtle  # import du module turtleiut en le faisant passer
