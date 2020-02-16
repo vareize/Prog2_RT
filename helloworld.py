@@ -1,7 +1,6 @@
 # coding: UTF-8
 """
 Script: prog1/helloworld
-Création: reissev, le 12/11/2019
 """
 
 
