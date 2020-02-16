@@ -1,10 +1,3 @@
-# coding: UTF-8
-"""
-Script: Python/caissiere
-Création: valen, le 16/11/2019
-"""
-
-
 # Imports
 import tools_caissiere
 import math
