@@ -1,6 +1,6 @@
 # coding: UTF-8
 """
-Script: Prog1/estimation
+Script: Prog1/debuggeur
 """
 
 # Imports
