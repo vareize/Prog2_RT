@@ -1,7 +1,6 @@
 # coding: UTF-8
 """
 Script: Prog1/estimation
-Création: valen, le 22/11/2019
 """
 
 
