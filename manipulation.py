@@ -1,7 +1,6 @@
 # coding: UTF-8
 """
 Script: Prog2/manipulation
-Création: reissev, le 24/01/2020
 """
 
 
