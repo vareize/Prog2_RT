@@ -1,10 +1,3 @@
-# coding: UTF-8
-"""
-Script: Prog1/damier
-Création: valen, le 21/11/2019
-"""
-
-
 # Imports
 import turtle
 
