@@ -1,7 +1,6 @@
 # coding: UTF-8
 """
 Script: Prog2/parfait
-Création: arroyoe, le 04/02/2020
 """
 
 
