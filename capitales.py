@@ -1,7 +1,6 @@
 #  import
 import random
 
-
 #  Fonctions
 def capitales():
     return {
