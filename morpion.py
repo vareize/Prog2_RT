@@ -8,8 +8,7 @@ import random
 # Fonctions
 def initialisation_grille():
     """Initialisation"""
-    grille = [['_' for i in range(3)] for j in range(3)]
-    return grille
+    return [['_' for i in range(3)] for j in range(3)]
 
 
 def affiche_grille(grille):
@@ -31,10 +30,7 @@ def saisie():
 
 
 def conversion(case):
-    case, n, L = [i for i in case], [1, 2, 3], ["A", "B", "C"]
-    i = n.index(int(case[0]))
-    j = L.index(case[1])
-    return [i, j]
+    return [[1, 2, 3].index(int([i for i in case][0])), ["A", "B", "C"].index([i for i in case][1])]
 
 
 def ajoute_case_joueur(grille):
@@ -46,18 +42,12 @@ def ajoute_case_joueur(grille):
 
 
 def get_cases_vides(grille):
-    res = []
-    for i in range(len(grille)):
-        for j in range(len(grille[i])):
-            if grille[i][j] == '_':
-                res.append([i, j])
-    return res
+    return [[i, j] for j in range(len(grille)) for i in range(len(grille)) if grille[i][j] == '_']
 
 
 def ajoute_case_ordi(grille):
-    gcv = get_cases_vides(grille)
-    if len(gcv) != 0:
-        case_ordi = random.choice(gcv)
+    if len(get_cases_vides(grille)) != 0:
+        case_ordi = random.choice(get_cases_vides(grille))
         grille[case_ordi[0]][case_ordi[1]] = 'O'
         return True
     else:
@@ -65,10 +55,7 @@ def ajoute_case_ordi(grille):
 
 
 def est_pleine(grille):
-    if not get_cases_vides(grille):
-        return True
-    else:
-        return False
+    return True if not get_cases_vides(grille) else False
 
 
 def est_gagnante_ligne(grille, pion):
